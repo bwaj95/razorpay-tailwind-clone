@@ -1,0 +1,7 @@
+.featureCardSVG {
+  transition: all 200ms;
+}
+
+.featureCardSVG:hover svg {
+  filter: drop-shadow(0 0 2rem red);
+}
